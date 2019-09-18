@@ -1,4 +1,0 @@
-##### Ez Rename Basic Instructions #####
-- To open the Ez Rename window go to Windows/Ez Rename/Open.
-- It's possible to access some options right clicking over a GameObject and going to Ez Rename.
-- To get more information of each option just click on the help button next to each option title or going to https://solomidgames.com/guides/ez-rename/quick-overview.html

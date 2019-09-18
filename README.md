@@ -11,8 +11,3 @@ Our goal is to keep Ez Rename fast, simple and as easy to use as possible to hel
 - Remove;</br>
 - Case Change;</br>
 - Sort.</br>
-</br>
-<a href="https://solomidgames.com/guides/ez-rename/quick-overview.html">Documentation</a>
--
-<a href="https://forum.unity.com/threads/released-ez-rename.300182/">Forum</a></br>
-</br>

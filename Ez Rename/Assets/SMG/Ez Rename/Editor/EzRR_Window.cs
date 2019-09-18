@@ -60,40 +60,34 @@ namespace SMG.EzRenamer
             _window.Show();
         }
 
-        [MenuItem("Window/Ez Rename/Guide")]
-        private static void Guide()
-        {
-            Application.OpenURL("https://solomidgames.com/guides/ez-rename/quick-overview.html");
-        }
-
-        [MenuItem("Window/Ez Rename/Help")]
-        private static void Help()
-        {
-            Application.OpenURL("mailto:help@solomidgames.com");
-        }
-
-        [MenuItem("Window/Ez Rename/Forum Thread")]
-        private static void ForumThread()
-        {
-            Application.OpenURL("https://forum.unity.com/threads/released-ez-files-renamer.300182/");
-        }
-
         [MenuItem("Window/Ez Rename/More Assets")]
-        private static void MoreAssets()
+        public static void MoreAssets()
         {
-            Application.OpenURL("https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:11524");
+            Application.OpenURL("https://github.com/betodeoliveira?tab=repositories");
         }
 
         [MenuItem("Window/Ez Rename/Website")]
-        private static void Website()
+        public static void Website()
         {
             Application.OpenURL("https://solomidgames.com");
         }
 
-        [MenuItem("Window/Ez Rename/Follow us on Twitter")]
-        private static void TwitterFollow()
+        [MenuItem("Window/Ez Rename/LinkedIn")]
+        public static void LinkedIn()
         {
-            Application.OpenURL("https://twitter.com/solomidgames");
+            Application.OpenURL("https://www.linkedin.com/in/alberto-de-oliveira-8b1a6365/");
+        }
+
+        [MenuItem("Window/Ez Rename/Twitter")]
+        public static void Twitter()
+        {
+            Application.OpenURL("https://twitter.com/beto_deoliveira");
+        }
+
+        [MenuItem("Window/Ez Rename/Facebook")]
+        public static void Facebook()
+        {
+            Application.OpenURL("https://www.facebook.com/betovdeoliveira");
         }
 
         // Open Window
