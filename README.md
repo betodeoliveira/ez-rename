@@ -1,6 +1,6 @@
 # About
 
-Ez Rename is the complete solution to quickly rename any kind of asset or gameObject inside your project. It also has powerful sort solution to help you organize the hierarchy of your project.
+Ez Rename is the complete solution to quickly rename any kind of asset or gameObject inside your project. It also has powerful sort solution that you can use to keep your project hierarchy organized.
 
 **Features:**
 
